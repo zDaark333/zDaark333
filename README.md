@@ -24,7 +24,7 @@
   <img align="center" alt="Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   
 <div align="center">
-<img src="https://github.com/zDaark333/zDaark333/blob/main/code.gif" width="400px" />
+<img src="" width="400px" />
 </div>
 
 
