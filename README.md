@@ -2,7 +2,6 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante de ciencia da computacao 2/8
 
 <div align="center">
   <a href="https://github.com/zDaark333">
